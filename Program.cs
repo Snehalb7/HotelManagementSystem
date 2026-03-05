@@ -1,5 +1,8 @@
 ﻿using System.Security.Cryptography.X509Certificates;
-
+//-----Summary
+//A Small Mini Project for Hotel Management System with Restaurant Module.
+//It allows users to view the menu, place orders, view their orders, and calculate the total bill.
+//The program uses a simple console interface for interaction.
 namespace HotelManagementSystem
 {
     internal class Program

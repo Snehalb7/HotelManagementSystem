@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace HotelManagementSystem
 {
+    //This class represents a restaurant that contains a list of menu items and order items.
+    //It provides methods to display the menu, place orders, and display order details.
     public class Restaurant
     {
         public List<Menu> menuList { get; set; } = new List<Menu>();

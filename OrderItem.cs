@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace HotelManagementSystem
 {
+    //This class represents an item in an order, containing information about the menu item and its quantity.
     public class OrderItem
     {
        public int orderItemId;

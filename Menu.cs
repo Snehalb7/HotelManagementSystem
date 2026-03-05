@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace HotelManagementSystem
 {
+    //This class represents a menu item in the restaurant, containing information about the menu ID, name, and price.
     public class Menu
     {
        public int menuId;
